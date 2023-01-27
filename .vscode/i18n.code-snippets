@@ -1,0 +1,15 @@
+{
+  "I18n": {
+    "prefix": "i18n",
+    "body": ["/*i18n*/ i18n._('$1')"],
+    "description": "i18n React"
+  },
+
+  "I18n Plural": {
+    "prefix": "i18np",
+    "body": [
+      /*i18n*/ "i18n._('{$1, plural, one {# $2} other {# $2s}}', {$1: $3})"
+    ],
+    "description": "i18n plural React"
+  }
+}

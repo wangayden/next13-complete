@@ -27,6 +27,8 @@
   },
   "devDependencies": {
     "@babel/core": "^7.20.12",
+    "@commitlint/cli": "^17.4.2",
+    "@commitlint/config-conventional": "^17.4.2",
     "@formatjs/intl-localematcher": "^0.2.32",
     "@lingui/cli": "^3.16.1",
     "@lingui/core": "^3.16.1",
